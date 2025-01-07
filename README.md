@@ -3,7 +3,7 @@
  Hi 👋, I'm Mohd Anees Raja 
 </h1>
 
-<h1 align="center" style="vertical-align: middle !important; margin-top: 5px !important;">
+<h1 align="center" vertical-align="middle" margin-top="5px">
    Hi 👋, I'm <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=1500&lines=Mohd+Anees+Raja;Java+backened+developer;Software+engineer" >
 </h1>
 
