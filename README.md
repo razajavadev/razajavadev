@@ -24,8 +24,9 @@
 <summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary> 
 <br/>
 
-
-<a href="https://github.com/razajavadev"><img alt="Raja's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=razajavadev&custom_title=Raja's%20Contribution%20Graph&theme=react-dark" /></a> 
+<a href="https://github.com/razajavadev" target="_blank">
+  <img alt="Raja's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=razajavadev&custom_title=Raja's%20Contribution%20Graph&theme=react-dark" style="max-width: 100%; height: auto;" />
+</a>
 <br/>
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
