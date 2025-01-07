@@ -14,6 +14,7 @@
 - 👨‍💻 Currently working as a Java Backend Developer at [SNVA Group](https://snva.com/)
 - 🌱 I’m currently learning     **Microservices, LLD, AWS** in my free time.
 - 💬 Ask me about     **Java, Hibernate, Spring-Boot, SQL, NoSQL, Spring-Security**
+- [My Portfolio](https://razajavadev.github.io/){:target="_blank"}
 - 🔭 This is <a target="_blank" href="https://razajavadev.github.io/" >My Portfolio</a>
 - 🔭 This is <a href="https://razajavadev.github.io/" target="_blank" rel="noopener noreferrer">My Portfolio</a>
 - 🔭 This is <a target="_blank" href="https://www.linkedin.com/in/razajavadev/" >My LinkedIn</a>
