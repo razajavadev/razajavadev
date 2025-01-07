@@ -134,16 +134,7 @@
 </p>
 
 
-
-
-## Connect with me:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/razajavadev/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
-
-</p>
-
-## ❤ Views and Followers
+## ❤ Profile Views
 
 <p align='center'> <img src="https://komarev.com/ghpvc/?username=razajavadev&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
 
