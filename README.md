@@ -3,10 +3,11 @@
  Hi 👋, I'm Mohd Anees Raja 
 </h1>
 
+<!--
 <h1 align="center" vertical-align="middle" margin-top="5px">
    Hi 👋, I'm <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=1500&lines=Mohd+Anees+Raja;Java+backened+developer;Software+engineer" >
 </h1>
-
+-->
 <h3 align="center">I am a passionate and results-driven Java Backend Developer with hands-on experience in designing, developing, and maintaining complex projects. I excel in creating efficient and scalable backend systems, ensuring high performance, and solving technical challenges with a keen focus on quality code and best practices.</h3>
 
 <!-- </br>  -->
