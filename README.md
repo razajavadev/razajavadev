@@ -4,8 +4,8 @@
 </h1>
 
 <h1 align="center">
-   Hi 👋, I'm <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=1500&lines=Mohd+Anees+Raja;Java+backened+developer;Software+engineer" style="vertical-align: middle; margin-top: 5px;">
-</h1> 
+   Hi 👋, I'm <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=1500&lines=Mohd+Anees+Raja;Java+backened+developer;Software+engineer" style="vertical-align: middle !important; margin-top: 5px !important;">
+</h1>
 
 <h3 align="center">I am a passionate and results-driven Java Backend Developer with hands-on experience in designing, developing, and maintaining complex projects. I excel in creating efficient and scalable backend systems, ensuring high performance, and solving technical challenges with a keen focus on quality code and best practices.</h3>
 
