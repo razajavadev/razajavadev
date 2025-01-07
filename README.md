@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;backened+developer;fullstack+developer" > 
 </p>  -->
 
-<h3 align="center">A Passionate Java Backend Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning.</h3>
+<h3 align="center">I am a passionate and results-driven Java Backend Developer with hands-on experience in designing, developing, and maintaining complex projects. I excel in creating efficient and scalable backend systems, ensuring high performance, and solving technical challenges with a keen focus on quality code and best practices.</h3>
 
 <!-- </br>  -->
 
