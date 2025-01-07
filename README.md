@@ -15,6 +15,7 @@
 - 🌱 I’m currently learning     **Microservices, LLD, AWS** in my free time.
 - 💬 Ask me about     **Java, Hibernate, Spring-Boot, SQL, NoSQL, Spring-Security**
 - 🔭 This is <a target="_blank" href="https://razajavadev.github.io/" >My Portfolio</a>
+- 🔭 This is <a target="_blank" href="https://www.linkedin.com/in/razajavadev/" >My LinkedIn</a>
 - 📄 This is [My Resume](https://drive.google.com/file/d/1S1tICyFT3Ts_whWB7EhcZGt0d2GXaUsh/view?usp=drive_link)
 - 📫 How to reach me:   **Mail: razajavadev@gmail.com, Phone: 9756741111**
 
@@ -23,13 +24,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary> 
 <br/>
-
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razajavadev" alt="Piyush" /></a></p>
-
-
-
-
-
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razajavadev" alt="Raja" /></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -39,14 +34,13 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=razajavadev&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=razajavadev&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=razajavadev&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=razajavadev&theme=solarized_dark&utcOffset=8">
-	
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=razajavadev&theme=solarized_dark&utcOffset=8">	
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h2 align="left"> 💻 Languages and Tools:</h2>
+<h2 align="left"> 💻 Tech Stack:</h2>
 
 <table align="center">
   <tr>
@@ -74,12 +68,12 @@
       </a>
       <br>MySQL
     </td>
-<!--      <td align="center" width="96">
+  <td align="center" width="96">
       <a href="#vuejs">
         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
       </a>
       <br>Vue JS
-    </td> -->
+    </td> 
   </tr>
    <td align="center" width="96">
       <a href="#html5">
