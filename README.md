@@ -3,25 +3,20 @@
  Hi 👋, I'm Mohd Anees Raja 
 </h1>
 
-<!--
-<h1 align="center" vertical-align="middle" margin-top="5px">
-   Hi 👋, I'm <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=1500&lines=Mohd+Anees+Raja;Java+backened+developer;Software+engineer" >
-</h1>
--->
 <h3 align="center">I am a passionate and results-driven Java Backend Developer with hands-on experience in designing, developing, and maintaining complex projects. I excel in creating efficient and scalable backend systems, ensuring high performance, and solving technical challenges with a keen focus on quality code and best practices.</h3>
 
-<!-- </br>  -->
+
 
 <a href="#"><img  width="100%" height="auto" src="https://iconshots.com/wp-content/uploads/2019/03/Java-Developer-1920x960.jpg" height="175px"/></a> 
 
 
 
 - 👨‍💻 Currently working as a Java Backend Developer at [SNVA Group](https://snva.com/)
-- 🌱 I’m currently learning     **React-Js, Microservices, LLD, AWS** in my free time.
-- 💬 Ask me about     **Java, Hibernate, Spring-Boot, SQL**
+- 🌱 I’m currently learning     **Microservices, LLD, AWS** in my free time.
+- 💬 Ask me about     **Java, Hibernate, Spring-Boot, SQL, NoSQL, Spring-Security**
 - 🔭 This is <a target="_blank" href="https://razajavadev.github.io/" >My Portfolio</a>
 - 📄 This is [My Resume](https://drive.google.com/file/d/1S1tICyFT3Ts_whWB7EhcZGt0d2GXaUsh/view?usp=drive_link)
-- 📫 How to reach me:   **piyushfrommasai@gmail.com**
+- 📫 How to reach me:   **Mail: razajavadev@gmail.com, Phone: 9756741111**
 
 
 
