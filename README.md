@@ -16,7 +16,7 @@
 - 💬 Ask me about     **Java, Hibernate, Spring-Boot, SQL, NoSQL, Spring-Security**
 - 🔭 This is [My Portfolio](https://razajavadev.github.io/)
 - 💼 This is [My LinkedIn](https://www.linkedin.com/in/razajavadev/)
-- 📄 This is [My Resume](https://drive.google.com/file/d/1S1tICyFT3Ts_whWB7EhcZGt0d2GXaUsh/view?usp=drive_link)
+- 📄 This is [My Resume](https://drive.google.com/file/d/1i1MLXq2_b94wp7XcTzIb1S2pKQ8MBskj/view?usp=sharing)
 - 📫 How to reach me:   **Mail: razajavadev@gmail.com, Phone: 9756741111**
 
 
